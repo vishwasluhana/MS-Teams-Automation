@@ -1,0 +1,3 @@
+Course name = Test
+Start time = 17:19
+End time = 17:20

@@ -1,0 +1,9 @@
+Course name = Test
+Start time = 20:50
+End time = 20:51
+Course name = Blue Test
+Start time = 21:44
+End time = 21:46
+Course name = Black test
+Start time = 21:48
+End time = 21:50
